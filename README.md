@@ -1,3 +1,22 @@
+
+## 🚀 Módulo de Operadores em C# - Projeto de Estudo
+
+### 👨‍💻 Desenvolvido por: Paulo Henrique Santana Motta
+
+---
+
+### 🧠 Sobre o projeto
+
+Este repositório apresenta o **conteúdo prático** que desenvolvi durante um módulo de **3 horas** focado em **Operadores em C#**, parte dos meus estudos em desenvolvimento back-end.
+
+> Aqui você encontrará exemplos de uso real com operadores lógicos (`&&`, `||`, `!`), condicionais (`if`, `else`, `switch`) e o controle de fluxo mais comum no dia a dia da programação em C#.
+
+---
+
+### 💡 Conceitos trabalhados
+
+
+
 # M-dulo-de-Operadores-em-C---Projeto-de-Estudo
 Módulo de Operadores em C# - Projeto de Estudo
 ```csharp
